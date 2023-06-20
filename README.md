@@ -1,2 +1,2 @@
-# Projetos
-Projetos desenvolvidos ao longo da minha jornada de estudo como programador fullstack
+# Digital watch
+Projetos desenvolvidos para teste de conhecimentos em HTML, CSS e JS
